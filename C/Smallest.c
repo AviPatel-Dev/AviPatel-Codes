@@ -19,11 +19,12 @@ int main() {
     }
 
     else if (b<a && b<c) {
-            printf("%d is the smallest number", b);
-        }
-        else {
-            printf("%d is the smallest number", c);
-        }
+        printf("%d is the smallest number", b);
+    }
+
+    else {
+        printf("%d is the smallest number", c);
+    }
     
 
     return 0;
